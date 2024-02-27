@@ -8,6 +8,7 @@
 - ✉️ Email: ericwxy@foxmail.com
 - 🌐 Personal Blog: [ericwxy.gitee.io](https://ericwxy.gitee.io/) | [ericwxy.github.io](https://ericwxy.github.io/)
 
+<!--
 ## Languages and Tools
 
 - Frontend: HTML | CSS | JavaScript | Vue.js | ...
@@ -21,6 +22,8 @@
 - 🌟 Project 1: [Project Name](link) - Brief description.
 - 🌟 Project 2: [Project Name](link) - Brief description.
 - 🌟 Project 3: [Project Name](link) - Brief description.
+-->
+
 
 Feel free to reach out to me for collaboration or just to say hi! 😊
 

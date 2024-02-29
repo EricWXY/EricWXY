@@ -6,7 +6,7 @@
 - 🚀 Specialties: Vue.js | Node.js | TypeScript
 - 🎓 Education: Northwestern Polytechnical University
 - ✉️ Email: ericwxy@foxmail.com
-- 🌐 Personal Blog: [ericwxy.gitee.io](https://ericwxy.gitee.io/) | [ericwxy.github.io](https://ericwxy.github.io/)
+- 🌐 Personal Blog: [ericwxy.github.io](https://ericwxy.github.io/)
 
 <!--
 ## Languages and Tools

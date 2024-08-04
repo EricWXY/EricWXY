@@ -4,7 +4,6 @@
 
 - 👨‍💻 Job Tags: Frontend Developer | Full Stack Developer
 - 🚀 Specialties: Vue.js | Node.js | TypeScript
-- 🎓 Education: Northwestern Polytechnical University
 - ✉️ Email: ericwxy@foxmail.com
 - 🌐 Personal Blog: [ericwxy.github.io](https://ericwxy.github.io/)
 

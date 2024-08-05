@@ -23,6 +23,10 @@
 - 🌟 Project 3: [Project Name](link) - Brief description.
 -->
 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=EricWXY)
+
+
 <!--START_SECTION:waka-->
 
 ```rust

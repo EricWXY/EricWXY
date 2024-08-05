@@ -1,34 +1,13 @@
-# Hi there, I'm EricWXY! 👋
+# Hi there,<a href="https://ericwxy.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>  I'm EricWXY! 
 
-## About Me
-
-- 👨‍💻 Job Tags: Frontend Developer | Full Stack Developer
-- 🚀 Specialties: Vue.js | Node.js | TypeScript
-- ✉️ Email: ericwxy@foxmail.com
-- 🌐 Personal Blog: [ericwxy.github.io](https://ericwxy.github.io/)
-
-<!--
-## Languages and Tools
-
-- Frontend: HTML | CSS | JavaScript | Vue.js | ...
-- Backend: Node.js | Express.js | ...
-- Database: MongoDB | MySQL | ...
-- DevOps: Docker | Kubernetes | ...
-- Tools: Git | VS Code | ...
-
-## Projects
-
-- 🌟 Project 1: [Project Name](link) - Brief description.
-- 🌟 Project 2: [Project Name](link) - Brief description.
-- 🌟 Project 3: [Project Name](link) - Brief description.
--->
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Nodejs or Vue
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=EricWXY)
+<a href="https://github.com/EricWXY"><img src="https://github-readme-stats.vercel.app/api?username=EricWXY" alt="github stats"></a>
 
 
 📊 **Weekly development breakdown**
-
 
 <!--START_SECTION:waka-->
 
@@ -41,6 +20,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+
+### ✨&nbsp; About Me
+
+I am a Full Stack Developer with 8+ years
 
 Feel free to reach out to me for collaboration or just to say hi! 😊
 

@@ -23,6 +23,8 @@
 - 🌟 Project 3: [Project Name](link) - Brief description.
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 Feel free to reach out to me for collaboration or just to say hi! 😊
 

@@ -24,6 +24,11 @@
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 Feel free to reach out to me for collaboration or just to say hi! 😊

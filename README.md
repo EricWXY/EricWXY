@@ -4,7 +4,7 @@
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Nodejs or Vue
 
 
-<a href="https://github.com/EricWXY"><img src="https://github-readme-stats.vercel.app/api?username=EricWXY" alt="github stats"></a>
+<a href="https://github.com/EricWXY"><img src="https://github-readme-stats.vercel.app/api?username=EricWXY" alt="github stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericwxy&hide_border=true" alt="top langs" style="height:195px;"></a>
 
 
 📊 **Weekly development breakdown**

@@ -12,18 +12,19 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 August 2024 - To: 10 September 2024
+From: 04 August 2024 - To: 11 September 2024
 
-Total Time: 61 hrs 6 mins
+Total Time: 63 hrs 17 mins
 
-TypeScript                 25 hrs          >>>>>>>>>>===============   40.57 %
-Vue.js                     21 hrs 7 mins   >>>>>>>>>================   34.27 %
-JSON                       4 hrs 53 mins   >>=======================   07.94 %
-YAML                       3 hrs 43 mins   >>=======================   06.05 %
-Markdown                   2 hrs 20 mins   >========================   03.79 %
-SCSS                       1 hr 13 mins    =========================   01.99 %
-JavaScript                 1 hr 7 mins     =========================   01.81 %
-Other                      30 mins         =========================   00.82 %
+TypeScript                 26 hrs 2 mins   >>>>>>>>>>===============   40.83 %
+Vue.js                     21 hrs 43 mins  >>>>>>>>>================   34.07 %
+JSON                       5 hrs           >>=======================   07.85 %
+YAML                       3 hrs 43 mins   >========================   05.85 %
+Markdown                   2 hrs 20 mins   >========================   03.66 %
+SCSS                       1 hr 24 mins    >========================   02.20 %
+JavaScript                 1 hr 7 mins     =========================   01.75 %
+EJS                        39 mins         =========================   01.02 %
+Other                      30 mins         =========================   00.80 %
 ```
 
 <!--END_SECTION:waka-->

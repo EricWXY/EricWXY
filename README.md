@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 August 2024 - To: 20 March 2025
+From: 04 August 2024 - To: 21 March 2025
 
-Total Time: 264 hrs 58 mins
+Total Time: 268 hrs 17 mins
 
-TypeScript                 124 hrs 10 mins >>>>>>>>>>>>=============   46.21 %
-Vue.js                     89 hrs 29 mins  >>>>>>>>=================   33.30 %
-JavaScript                 10 hrs 18 mins  >========================   03.84 %
-Markdown                   5 hrs 44 mins   >========================   02.14 %
-Other                      3 hrs 44 mins   =========================   01.39 %
+TypeScript                 127 hrs 10 mins >>>>>>>>>>>>=============   46.75 %
+Vue.js                     89 hrs 29 mins  >>>>>>>>=================   32.90 %
+JavaScript                 10 hrs 33 mins  >========================   03.88 %
+Markdown                   5 hrs 48 mins   >========================   02.13 %
+Other                      3 hrs 44 mins   =========================   01.37 %
 ```
 
 <!--END_SECTION:waka-->
